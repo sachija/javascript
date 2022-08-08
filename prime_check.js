@@ -7,7 +7,7 @@ else if(N === 2){
 
 }
 else{
-for(i=2; i<N/2; i++){
+for(i=2; i<N; i++){
  if(N%i === 0){
    count++;
    break;
